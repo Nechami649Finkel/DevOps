@@ -1,1 +1,1 @@
-![Architecture Diagram](ארכיטקטורה.drawio.png)
+![Architecture Diagram](Architecture.png)
